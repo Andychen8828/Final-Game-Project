@@ -13,7 +13,7 @@ Holding the left button destroys the enemies from left side one by one, and vice
 
 Kill all of them in order to survive before the enemy kills you, then game over 
 
-And if you used wrong side weapon, they will 100% catch the chance to kill you, then game over again
+And if you used the wrong side weapon, you will be infected and killed by the virus, then game over
 
 The game will stop when you beat it or click the wrong button
 
