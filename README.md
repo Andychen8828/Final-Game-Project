@@ -17,9 +17,12 @@ Each virus you kill gives you a point, the goal is to get as many points as you 
 
 # Inputs:
 Slide Switch State: Determines if the game is turned on or off
+
 Button Presses: The code reads the states of the left and right buttons. These inputs are used to detect player responses during certain game modes.
 
 # Outputs:
 LED Patterns: Depending on the randomly generated lightMode, the code controls the LEDs on the Circuit Playground board to create various light patterns.
+
 Tones: A tone is played when the round is completed
+
 Player’s Score: The serial monitor calculates and updates the player's score based on their performance during the game.
