@@ -20,7 +20,7 @@ The game will stop when you beat it or click the wrong button
 Press reset button to start over
 
 # Scoring system:
-Each virus you kill gives you a point, the goal is to get as many points as you can by beating the game.
+Each virus you kill gives you a point, the goal is to get as many points as you can by beating the game. Final Score is listed in serial monitor.
 
 # Inputs:
 Slide Switch State: Determines if the game is turned on or off
