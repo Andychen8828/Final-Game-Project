@@ -4,12 +4,19 @@
 The game presents various light patterns, and the player must react correctly within a time limit by pressing buttons or responding to light levels to score points. The game becomes progressively more challenging as the player advances through rounds.
 
 Push the slide switch to right, then the game starts
+
 Viruses will show up from left or right side, or both sides
+
 Viruses are red LEDs
+
 Holding the left button destroys the enemies from left side one by one, and vice versa with the right button
+
 Kill all of them in order to survive before the enemy kills you, then game over 
+
 And if you used wrong side weapon, they will 100% catch the chance to kill you, then game over again
+
 The game will stop when you beat it or click the wrong button
+
 Press reset button to start over
 
 # Scoring system:
